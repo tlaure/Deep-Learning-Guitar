@@ -7,7 +7,7 @@ Created on Fri Nov 23 07:46:42 2018
 """
 
 """
-Prepare MIDI file and feed it to neural network for training
+All neural network related code
 """
 
 
